@@ -9,6 +9,21 @@
 | Dosen Pengampu 2 | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
 
 # SISTEM OPERASI
+### Fitur VArchiver
+|  |  |  |
+|--|--|--|
+|**No**| **Fitur** | **Detail** |
+| 1 | Tampilkan Isi Direktori | menampilkan isi dari direktori pada os linux |
+| 2 | Tambah File | Menambah file pada direktori |
+| 3 | Hapus File | Menghapus file dengan cara mencari file yang dimaksud terlebih dahulu |
+| 4 | Informasi CPU | Menampilkan informasi dari cpu |
+| 5 | Tampilkan Kalender | menampilkan sebuah kalender realtime |
+| 6 | Buka Browser | sebuah shortcut untuk membuka browser (firefox) |
+| 7 | Tampilkan proses | menampilkan sebuah proses yang sedang berjalan pada os linux |
+| 8 | tampilkan penggunaan disk | menampilkan penggunaan disk pada pc yang sedang dioperasikan |
+| 9 | cari file (berdasarkan nama | mencari file sama halnya pada fitur pada file eksplorer |
+| 10 | informasi sistem | Menampilkan informasi sistem  |
+| 11 | keluar | dengan memilih opsi ini, program akan keluar dan berhenti melakukan looping menu|
 
 ### Laporan Program Bash: Menu Interaktif
 #### Deskripsi Program
